@@ -1,6 +1,5 @@
 packages:
   effect-zoo.cabal
-  ../eff/eff
 
 repository head.hackage
   url: http://head.hackage.haskell.org/
